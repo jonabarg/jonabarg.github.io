@@ -8,7 +8,7 @@
   </body>
   <details>
     <summary><h2 style="display:inline-block">This Website</h2></summary>
-      <p>Hosted by GitHub Pages using the <a href="https://github.com/pages-themes/slate">Slate</a> theme. Outside of some quick answers from Google, I did not use AI to create any part of this site.</p>
+      <p>Hosted via GitHub Pages using the <a href="https://github.com/pages-themes/slate">Slate</a> theme. Outside of some quick answers from Google, I did not use AI to create any part of this site.</p>
   </details>
   <details>
     <summary><h2 style="display:inline-block">My Degree</h2></summary>
