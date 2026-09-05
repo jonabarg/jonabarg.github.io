@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1>About</h1> 
+    <h1>Hello There!</h1> 
     <p>  My name is Jonathan, and that's what I go by. I graduated from IU Bloomington in 2024 with a BS degree in CS and two minors. <br>
       My degree's specialization was in Software Engineering, and the two minors are Game Design and Data Science. 
       <br><br>
