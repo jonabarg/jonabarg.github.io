@@ -42,7 +42,7 @@ li a:hover:not(.active) {
   <li><a id="1" href="https://jonabarg.github.io/index.html">Home</a></li>
   <li><a id="2" href="#news">Updates</a></li>
   <li><a id="3" href="https://jonabarg.github.io/pages/navbar/contact.html">Contact</a></li>
-  <li><a id="4" href="#about">About</a></li>
+  <li><a id="4" href="https://jonabarg.github.io/pages/navbar/about.html">About</a></li>
 </ul>
 
 <script>
@@ -51,6 +51,9 @@ li a:hover:not(.active) {
   }
   if (window.location.href.includes("contact")) {
     document.getElementById("3").className="active"
+  }
+  if (window.location.href.includes("about")) {
+    document.getElementById("4").className="active"
   }
 </script>
 
