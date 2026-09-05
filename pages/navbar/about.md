@@ -1,12 +1,14 @@
 <html>
   <body>
     <h1>About</h1>    
-    <p>I'm hosted with GitHub Pages.</p>
-    <h2>This is a test to see what happens when the page content is long. Like when there is a lot of text, or maybe images, or possibly even embedded things from other site.</h2>  
-    <h2>This is a test to see what happens when the page content is long. Like when there is a lot of text, or maybe images, or possibly even embedded things from other site.</h2>  
-    <h2>This is a test to see what happens when the page content is long. Like when there is a lot of text, or maybe images, or possibly even embedded things from other site.</h2>  
-    <h2>This is a test to see what happens when the page content is long. Like when there is a lot of text, or maybe images, or possibly even embedded things from other site.</h2>  
-    <h2>This is a test to see what happens when the page content is long. Like when there is a lot of text, or maybe images, or possibly even embedded things from other site.</h2>  
-    <h2>This is a test to see what happens when the page content is long. Like when there is a lot of text, or maybe images, or possibly even embedded things from other site.</h2>  
   </body>
+  <details>
+    <summary>Dropdown menu 1</summary>
+      <p>Menu 1</p>
+  </details>
+  <details>
+    <summary>Dropdown menu 2</summary>
+      <p>Menu 2</p>
+  </details>
+  
 </html>
