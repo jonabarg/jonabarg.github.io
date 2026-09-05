@@ -13,7 +13,7 @@
   <details>
     <summary><h2 style="display:inline-block">My Degree</h2></summary>
       <p>As I said above, I have a Bachelor of Science degree in Computer Science with two minors, one in Game Design and the other in Data Science.
-      <br>
+      <br><br>
       I was a direct admit to the Luddy school of Informatics, Computing, and Engineering, so I was able to start studying CS my first semester there. I didn't decide on         my specialization until my second semester. 
       <br> The options were: Artificial Intelligence, Data Science, Foundations, Game Development, Programming Languages, Security, Software Engineering, and Systems.
       <br><br>
