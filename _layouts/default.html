@@ -9,12 +9,12 @@
 
 {% seo %}
     {% include headstart-custom.html %}
-  <style>
-    #header_wrap {
-    position: sticky;
-    top: 0;
-    }
-  </style>
+    <style>
+      #navbar {
+        position: sticky;
+        top: 0;
+      }
+    </style>
   </head>
 
   <body>
@@ -36,7 +36,9 @@
             </section>
           {% endif %}
         </header>
+      <div id="navbar">
         {% include headend-custom.html %}
+      </div>
     </div>
 
     <!-- MAIN CONTENT -->
