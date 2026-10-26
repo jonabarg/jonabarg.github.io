@@ -1,4 +1,16 @@
+<!DOCTYPE html>
 <html>
+<head>
+<style>
+summary:hover h2 {
+  text-decoration: underline;
+}
+
+details > summary {
+  cursor: pointer;
+}
+</style>
+</head>
   <body>
     <h1>Hello There!</h1> 
     <p>  My name is Jonathan, and that's what I go by. I graduated from IU Bloomington in 2024 with a BS degree in CS and two minors. <br>
