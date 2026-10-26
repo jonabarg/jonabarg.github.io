@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -8,6 +7,19 @@ summary:hover h2 {
 
 details > summary {
   cursor: pointer;
+}
+
+details > *:not(summary) {
+  transform: scaleY(0);
+  
+}
+
+details[open] > *:not(summary) {
+  transform: scaleY(1);
+
+  transition-property: transform, overlay, display;
+  transition-duration: .2s;
+  transition-behavior: allow-discrete;
 }
 </style>
 </head>
